@@ -1,13 +1,9 @@
-Scriptum főoldal
-http://s01/
+# Scriptum
+[Főoldal](http://s01/)
+[Feladatok dashboard](http://s05.scriptumzrt.hu:7305/hub/dashboard)
 
-s05.scriptumzrt.hu
-http://s05.scriptumzrt.hu:7305/hub/dashboard
 
-s05.scriptumzrt.hu
-http://s05.scriptumzrt.hu:7303/
-
-Otthon vezérlés
-http://pi3.local:1880/ui/
-http://gkov.ddns.net:1880/ui/
+# Otthoni
+[Automatizálás belső](http://pi3.local:1880/ui/)
+[Automatizálás külső](http://gkov.ddns.net:1880/ui/)
 
